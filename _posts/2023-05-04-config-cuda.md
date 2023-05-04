@@ -8,10 +8,10 @@ Testing
    - pytorch has its own version and corresponding cuda version.
    - each cuda version will also have a cudnn version.
 - How to switch cuda version
-  - install .run file: sudo sh cuda_11.8.0_520.61.05_linux.run --silent --toolkit --toolkitpath=/usr/local/cuda-11.8
-  - soft link cuda-version to cuda: sudo rm cuda?  sudo ln -snf /usr/local/cuda-11.8   /usr/local/cuda
+  - install .run file: `sudo sh cuda_11.8.0_520.61.05_linux.run --silent --toolkit --toolkitpath=/usr/local/cuda-11.8`
+  - soft link cuda-version to cuda: `sudo rm cuda`?  `sudo ln -snf /usr/local/cuda-11.8   /usr/local/cuda`
   - edit ./bashrc file: cuda-version
-  - check nvcc version: nvcc -v /// nvidia-smi
+  - check nvcc version: `nvcc -v` and `nvidia-smi`
 
 ### Version
 - Config 1
