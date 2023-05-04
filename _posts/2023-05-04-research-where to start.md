@@ -45,3 +45,10 @@ TBD
 #### Few-Shot Font Generation(FFG) [[what is FFG](https://arxiv.org/abs/2104.00887)]
 ##### Universal style representation methods
   - 2020: AGIS-Net [[github](https://github.com/hologerry/AGIS-Net)] [[PDF](https://arxiv.org/abs/1910.04987)]
+##### Component conditioned methods.
+  - 2020: DM-Font [[github](https://github.com/clovaai/dmfont)] [[PDF](https://arxiv.org/abs/2005.10510)]
+  - 2021: MX-Font [[MX-Font](https://arxiv.org/abs/2104.00887)]
+  - 2022: Novel GAN [[zhihu](https://zhuanlan.zhihu.com/p/542389717)] [[PDF](https://arxiv.org/abs/2205.09965)]
+
+#### Materials/References
+  - Lanting Preface [[hku](https://learning.hku.hk/ccch9051/group-24/items/show/34)]
