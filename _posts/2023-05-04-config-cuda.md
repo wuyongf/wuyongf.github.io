@@ -7,7 +7,7 @@ Testing
 - About cuda, pytorch, cudnn:
    - pytorch has its own version and corresponding cuda version.
    - each cuda version will also have a cudnn version.
-- How to switch cuda version:
+- How to switch cuda version
   ```yaml
   1. install .run file: sudo sh cuda_11.8.0_520.61.05_linux.run --silent --toolkit --toolkitpath=/usr/local/cuda-11.8
   2. soft link cuda-version to cuda: sudo rm cuda?  sudo ln -snf /usr/local/cuda-11.8   /usr/local/cuda
