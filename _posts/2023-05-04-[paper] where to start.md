@@ -22,11 +22,11 @@ TBD
 ### Tools Intro
 - Metrics: [字体生成效果评价指标](https://blog.fantast.top/2022/03/16/827639831232/)
 
-### Blogger
+### Blog and Blogger
 - [NoNoe](https://www.cnblogs.com/Stareven233/): FZU CS Master
 - [一只哈士奇](https://www.zhihu.com/people/shuo-shuo-3-41/posts): ZJU CS Master
 - [csdn-blog](https://blog.csdn.net/m0_61985580/category_11924489.html): translation only??
 
-### Research Lab & Researchers
+### Lab and Researchers
 - Zhouhui Lian(连宙辉) [Homepage](https://www.icst.pku.edu.cn/zlian/)
 - clovaai: [github](https://github.com/clovaai/fewshot-font-generation)
