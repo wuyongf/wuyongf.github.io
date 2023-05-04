@@ -17,13 +17,15 @@ Testing
 
 ### Version
 1. Config 1
+
   ```
   pytorch: v2.0
   cuda: 12.1
   cudnn:
-
   ```
+
 2. Config 2
+
   ```
   pytorch: v1.9.1
   cuda: 11.3
