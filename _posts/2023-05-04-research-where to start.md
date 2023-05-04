@@ -40,8 +40,10 @@ TBD
     - zi2zi-pytorch [[github](https://github.com/kaonashi-tyc/zi2zi)]
   - 2018: zi and cycleGAN
     - HCCG-CycleGAN [[github](https://github.com/changebo/HCCG-CycleGAN)]
+
 #### Many-Shot Font Generation
   - 2017: zi2zi [[github](https://github.com/kaonashi-tyc/zi2zi)]
+
 #### Few-Shot Font Generation(FFG) [[what is FFG](https://arxiv.org/abs/2104.00887)]
 ##### Universal style representation methods
   - 2020: AGIS-Net [[github](https://github.com/hologerry/AGIS-Net)] [[PDF](https://arxiv.org/abs/1910.04987)]
@@ -50,5 +52,6 @@ TBD
   - 2021: MX-Font [[MX-Font](https://arxiv.org/abs/2104.00887)]
   - 2022: Novel GAN [[zhihu](https://zhuanlan.zhihu.com/p/542389717)] [[PDF](https://arxiv.org/abs/2205.09965)]
 
-#### Materials/References
+#### Materials/Dataset Resources
   - Lanting Preface [[hku](https://learning.hku.hk/ccch9051/group-24/items/show/34)]
+  - [方正字库](https://www.foundertype.com/index.php/FindFont/index)
