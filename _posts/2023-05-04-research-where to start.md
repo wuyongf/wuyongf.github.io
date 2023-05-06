@@ -5,8 +5,11 @@ TBD
 ---
 
 ### Keywords
+#### Main
 - Chinese Character Generation
 - ~Chinese Calligraphy Robot~
+#### Sub
+- Font Generation
 
 ### References
 - zi2zi(2017-baseline): [github](https://github.com/kaonashi-tyc/zi2zi)
@@ -24,9 +27,6 @@ TBD
 ### Lab and Researchers
 - Zhouhui Lian(连宙辉) [Homepage](https://www.icst.pku.edu.cn/zlian/)
 - clovaai: [github](https://github.com/clovaai/fewshot-font-generation)
-
-### Tools Intro and Implement
-- Metrics: [字体生成效果评价指标](https://blog.fantast.top/2022/03/16/827639831232/)
 
 ### Font Generation - Previous/Related Works
 #### Style Transfer and Image-to-Image
