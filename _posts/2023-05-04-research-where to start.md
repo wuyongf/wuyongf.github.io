@@ -3,11 +3,18 @@
 TBD
 
 ---
+### My Materials
+  - Art Museum [[draw.io](https://app.diagrams.net/#G1sdyfioDhkEttJRVjFNsBSLN6qIZKpb-q)] [[zoey-ppts](https://drive.google.com/drive/folders/1p4Szg1CO8fO6cctEpmKzHKe4n0SRXzv8)] [[zoey-shared folders](https://gocuhk-my.sharepoint.com/personal/zhuohuang_cuhk_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fzhuohuang%5Fcuhk%5Fedu%5Fhk%2FDocuments%2FAI%20Project%20%2D%20Public&ga=1)]
+  - AI Lab [[devlog-ppt](https://docs.google.com/presentation/d/15VVedQEy7VAZ17DVKVgu8vpK_mHGA5Bxkk6e_M18dQ8/edit#slide=id.g1c8eb26852d_0_310)] [[google drive](https://drive.google.com/drive/folders/1MY03gJHx6QQwdY4ufLFW2gdYxy-ejzf5)]
+
+---
 
 ### Keywords
+
 #### Main
 - Chinese Character Generation
 - ~Chinese Calligraphy Robot~
+
 #### Sub
 - Font Generation
 
