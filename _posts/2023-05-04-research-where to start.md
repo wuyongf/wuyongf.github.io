@@ -13,7 +13,7 @@ TBD
 
 ### References
 - zi2zi(2017-baseline): [github](https://github.com/kaonashi-tyc/zi2zi)
-- DGFont: [zhihu](https://zhuanlan.zhihu.com/p/463907942)
+- DGFont(2021-baseline?): [[zhihu](https://zhuanlan.zhihu.com/p/463907942)] [[github](https://github.com/ecnuycxie/DG-Font)]
 - DGFont+ 
 - DGFont++ [paper](https://arxiv.org/pdf/2212.14742.pdf)
 - MX-Font(2021): [[MX-Font](https://arxiv.org/abs/2104.00887)]
