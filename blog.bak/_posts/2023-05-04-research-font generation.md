@@ -63,3 +63,13 @@ TBD
 #### Materials/Dataset Resources
   - Lanting Preface [[hku](https://learning.hku.hk/ccch9051/group-24/items/show/34)]
   - [方正字库](https://www.foundertype.com/index.php/FindFont/index)
+
+#### To test the model is useful or not
+  - how to prepare the dataset?
+  - how to training?
+  - how to infer?
+  - how to infer specified character?
+  - how to show to training loss?
+
+#### To Start Training.
+  - about the training log.: loss need to save to `events`. Then use `tensorboardX` to check
